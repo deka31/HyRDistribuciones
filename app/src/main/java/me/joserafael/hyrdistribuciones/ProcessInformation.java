@@ -17,4 +17,9 @@ public class ProcessInformation extends AppCompatActivity {
         Intent intent = new Intent(this, MapsActivity.class);
         startActivity(intent);
     }
+
+    public void openCamera(View view) {
+        Intent intent = new Intent(this, CaptureActivity.class);
+        startActivity(intent);
+    }
 }

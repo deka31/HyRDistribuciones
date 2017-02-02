@@ -2,9 +2,17 @@
     <string name="app_name">HyR Distribuciones</string>
     <string name="title_activity_maps">Georeferenciar</string>
 
-    <string name="btnIntend">Take (big) Picture</string>
-    <string name="btnIntendS">Take (small) Picture</string>
-    <string name="btnIntendV">Take Video</string>
-    <string name="cannot">Cannot</string>
+    <string name="btnIntend">Tomar (Grande) Foto</string>
+    <string name="btnIntendS">Tomar (Pequeña) Foto</string>
+    <string name="btnIntendV">Tomar Video</string>
+    <string name="cannot">No</string>
     <string name="album_name">CameraSample</string>
+
+    <string name="kind_business_prompt">Escoja un tipo</string>
+
+    <string-array name="kind_business">
+        <item>Tipo1</item>
+        <item>Tipo2</item>
+        <item>RipoN</item>
+    </string-array>
 </resources>
