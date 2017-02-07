@@ -34,6 +34,7 @@ public class CaptureActivity extends Activity {
     private static final int ACTION_TAKE_PHOTO_S = 2;
     private static final int ACTION_TAKE_VIDEO = 3;
 
+
     private static final String BITMAP_STORAGE_KEY = "viewbitmap";
     private static final String IMAGEVIEW_VISIBILITY_STORAGE_KEY = "imageviewvisibility";
     private ImageView mImageView;
